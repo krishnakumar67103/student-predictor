@@ -1,0 +1,6 @@
+sreamlit
+pandas
+numpy
+scikit-learn
+joplip
+matplotlip
